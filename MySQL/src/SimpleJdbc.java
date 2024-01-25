@@ -27,7 +27,7 @@ public class SimpleJdbc {
     // Execute a statement 
     ResultSet resultSet = statement.executeQuery("select * from student;");
     
-
+    System.out.println("Testing a push");
 
 
 
